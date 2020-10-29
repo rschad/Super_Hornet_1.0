@@ -1,0 +1,599 @@
+Removed Pin From Net: NetName=EN1 Pin=R1-1
+Removed Pin From Net: NetName=1V35 Pin=R1-2
+Removed Pin From Net: NetName=SS12 Pin=R2-1
+Removed Pin From Net: NetName=VREG Pin=R2-2
+Removed Pin From Net: NetName=NetC1_2 Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Pin From Net: NetName=NetC1_2 Pin=R4-1
+Removed Pin From Net: NetName=NetC1_1 Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=EN1 Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=NetC4_2 Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=R8-2
+Removed Pin From Net: NetName=NetR9_1 Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Pin From Net: NetName=SS34 Pin=R10-1
+Removed Pin From Net: NetName=VREG Pin=R10-2
+Removed Pin From Net: NetName=EN4 Pin=R11-1
+Removed Pin From Net: NetName=1V8 Pin=R11-2
+Removed Pin From Net: NetName=EN3 Pin=R12-1
+Removed Pin From Net: NetName=1V0 Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=SS34 Pin=R14-2
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Pin From Net: NetName=EN4 Pin=R15-2
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Pin From Net: NetName=NetC10_2 Pin=R16-2
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=EN3 Pin=R17-2
+Removed Pin From Net: NetName=NetC9_2 Pin=R18-1
+Removed Pin From Net: NetName=NetC10_2 Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R20-1
+Removed Pin From Net: NetName=NetC12_2 Pin=R20-2
+Removed Pin From Net: NetName=NetC17_2 Pin=R21-1
+Removed Pin From Net: NetName=NetC14_2 Pin=R21-2
+Removed Pin From Net: NetName=GND Pin=R22-1
+Removed Pin From Net: NetName=NetC17_2 Pin=R22-2
+Removed Pin From Net: NetName=GND Pin=R23-1
+Removed Pin From Net: NetName=NetC16_2 Pin=R23-2
+Removed Pin From Net: NetName=GND Pin=R24-1
+Removed Pin From Net: NetName=NetR24_2 Pin=R24-2
+Removed Pin From Net: NetName=NetC21_2 Pin=R25-1
+Removed Pin From Net: NetName=NetC20_2 Pin=R25-2
+Removed Pin From Net: NetName=GND Pin=R26-1
+Removed Pin From Net: NetName=NetC21_2 Pin=R26-2
+Removed Pin From Net: NetName=NetR29_1 Pin=R29-1
+Removed Pin From Net: NetName=NetC22_2 Pin=R29-2
+Removed Pin From Net: NetName=GND Pin=R30-1
+Removed Pin From Net: NetName=NetR29_1 Pin=R30-2
+Removed Pin From Net: NetName=NetR31_1 Pin=R31-1
+Removed Pin From Net: NetName=NetR31_2 Pin=R31-2
+Removed Pin From Net: NetName=NetD1_1 Pin=R33-1
+Removed Pin From Net: NetName=+5V0_EXT Pin=R33-2
+Removed Pin From Net: NetName=NetD2_2 Pin=R34-1
+Removed Pin From Net: NetName=NetR34_2 Pin=R34-2
+Removed Pin From Net: NetName=GND Pin=R36-1
+Removed Pin From Net: NetName=NetR31_2 Pin=R36-2
+Removed Pin From Net: NetName=SNS5V0+ Pin=R37-1
+Removed Pin From Net: NetName=+VCC_5V Pin=R37-2
+Removed Pin From Net: NetName=NetR31_1 Pin=R38-1
+Removed Pin From Net: NetName=+5V0_EXT Pin=R38-2
+Removed Pin From Net: NetName=VFB Pin=R39-1
+Removed Pin From Net: NetName=GND Pin=R39-2
+Removed Pin From Net: NetName=NetC28_2 Pin=R40-1
+Removed Pin From Net: NetName=+1V8 Pin=R40-2
+Removed Pin From Net: NetName=GND Pin=R41-1
+Removed Pin From Net: NetName=NetR41_2 Pin=R41-2
+Removed Pin From Net: NetName=NetC27_1 Pin=R42-1
+Removed Pin From Net: NetName=VFB Pin=R42-2
+Removed Pin From Net: NetName=NetC29_2 Pin=R43-1
+Removed Pin From Net: NetName=+1V8 Pin=R43-2
+Removed Pin From Net: NetName=+VCC_5V Pin=R44-1
+Removed Pin From Net: NetName=NetR44_2 Pin=R44-2
+Removed Pin From Net: NetName=NetC42_1 Pin=R45-1
+Removed Pin From Net: NetName=GND Pin=R45-2
+Removed Pin From Net: NetName=+3V3 Pin=R46-1
+Removed Pin From Net: NetName=GND Pin=R46-2
+Removed Pin From Net: NetName=NetC36_2 Pin=R48-1
+Removed Pin From Net: NetName=+3V3 Pin=R48-2
+Removed Pin From Net: NetName=1V0 Pin=R49-1
+Removed Pin From Net: NetName=GND Pin=R49-2
+Removed Pin From Net: NetName=3V3_FIL Pin=R50-1
+Removed Pin From Net: NetName=+3V3 Pin=R50-2
+Removed Pin From Net: NetName=NetC44_1 Pin=R51-1
+Removed Pin From Net: NetName=SNS5V0+ Pin=R51-2
+Removed Pin From Net: NetName=NetC45_1 Pin=R52-1
+Removed Pin From Net: NetName=+7V_20VDC Pin=R52-2
+Removed Pin From Net: NetName=GND Pin=R53-1
+Removed Pin From Net: NetName=NetC44_1 Pin=R53-2
+Removed Pin From Net: NetName=GND Pin=R54-1
+Removed Pin From Net: NetName=NetC45_1 Pin=R54-2
+Removed Pin From Net: NetName=NetC46_2 Pin=R55-1
+Removed Pin From Net: NetName=3V3_FIL Pin=R55-2
+Removed Pin From Net: NetName=NetC47_2 Pin=R56-1
+Removed Pin From Net: NetName=3V3_FIL Pin=R56-2
+Removed Pin From Net: NetName=NetR57_1 Pin=R57-1
+Removed Pin From Net: NetName=GND Pin=R57-2
+Removed Pin From Net: NetName=NetR58_1 Pin=R58-1
+Removed Pin From Net: NetName=GND Pin=R58-2
+Removed Pin From Net: NetName=GND Pin=R59-1
+Removed Pin From Net: NetName=NetC46_2 Pin=R59-2
+Removed Pin From Net: NetName=GND Pin=R60-1
+Removed Pin From Net: NetName=NetC47_2 Pin=R60-2
+Removed Pin From Net: NetName=1V8 Pin=R61-1
+Removed Pin From Net: NetName=GND Pin=R61-2
+Removed Pin From Net: NetName=1V35 Pin=R62-1
+Removed Pin From Net: NetName=GND Pin=R62-2
+Removed Pin From Net: NetName=NetF5_2 Pin=R63-1
+Removed Pin From Net: NetName=GND Pin=R63-2
+Removed Pin From Net: NetName=NetR57_1 Pin=TP21-1
+Removed Pin From Net: NetName=NetR58_1 Pin=TP22-1
+Removed Pin From Net: NetName=NetR29_1 Pin=U1-6
+Removed Pin From Net: NetName=NetR9_1 Pin=U1-29
+Removed Pin From Net: NetName=NetR34_2 Pin=U2-3
+Removed Pin From Net: NetName=NetR31_2 Pin=U2-5
+Removed Pin From Net: NetName=NetR44_2 Pin=U3-7
+Change Component Comment : Designator=R37 Old Comment=RES 0.005 OHM 1% 1/4W 0603 New Comment=0.005
+Change Component Description : Designator=R3 Old Description=RES SMD 13.3K OHM 1% 1/8W 0805 New Description=VISHAY - CRCW080513K3FKEA - RES, THICK FILM, 13K3, 1%, 0.125W, 0805, REEL
+Change Component Description : Designator=R18 Old Description=RES SMD 13.7K OHM 1% 1/10W 0402 New Description=Thick Film Resistors 0402 13.7Kohms 1% AEC-Q200
+Change Component Description : Designator=R8 Old Description=RES SMD 22K OHM 1% 1/16W 0402 New Description=Res Thick Film 0402 22K Ohm 1% 1/16W 100ppm/C Molded SMD Paper T/R
+Change Component Description : Designator=R9 Old Description=RES SMD 22K OHM 1% 1/16W 0402 New Description=Res Thick Film 0402 22K Ohm 1% 1/16W 100ppm/C Molded SMD Paper T/R
+Change Component Description : Designator=R21 Old Description=RES SMD 35.7K OHM 1% 1/10W 0402 New Description=PANASONIC ELECTRONIC COMPONENTS         ERJ2RKF3572X             SMD Chip Resistor, Thick Film, 35.7 kohm, 50 V, 0402 [1005 Metric], 100 mW,  1%, ERJ2R Series
+Change Component Description : Designator=R4 Old Description=RES SMD 41.2K OHM 1% 1/8W 0805 New Description=VISHAY         CRCW080541K2FKEA             RES, THICK FILM, 41K2, 1%, 0.125W, 0805
+Change Component Description : Designator=R16 Old Description=RES SMD 73.2K OHM 1% 1/10W 0402 New Description=SISTOR, THICK FILM, 73.2KOHM, 100mW,1%, FULL REEL; Product Range:PANASONIC - ERJ Series; Resistance:73.2kohm; Power Rating:100mW; Resistance Tolerance:± 1%; Resistor Case Style:0402 ^1005 Metric]; Resistor Element Type:Thick Film
+Change Component Library : Designator=C23 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=C24 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R1 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R2 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R3 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R4 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R5 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R7 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R8 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R9 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R10 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R11 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R12 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R14 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R15 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R16 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R17 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R18 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R20 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R21 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R22 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R23 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R24 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R25 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R26 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R29 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R30 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R31 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R33 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R36 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R37 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R38 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R39 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R40 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R42 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R43 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R44 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R45 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R46 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R48 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R49 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R50 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R51 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R52 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R53 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R54 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R55 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R56 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R57 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R58 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R59 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R60 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R61 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R62 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change Component Library : Designator=R63 Old Library=Super_Hornet.SchLib New Library=Honey_Badger.SchLib
+Change component parameters: Designator = "R3"; Footprint = "R0805"; UniqueID = "\HWYOXSVB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/1697337.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/1697337.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://uk.rs-online.com/webdocs/0d98/0900766b80d98b26.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://uk.rs-online.com/webdocs/0d98/0900766b80d98b26.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.vishay.com/docs/20008/dcrcw.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.vishay.com/docs/20008/dcrcw.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8Description"; Value = "https://www.alliedelec.com/m/d/0c934d6939ccefa68dbe0b96d821c8cf.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.alliedelec.com/m/d/0c934d6939ccefa68dbe0b96d821c8cf.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink9Description"; Value = "http://www.farnell.com/datasheets/2111203.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink9URL"; Value = "http://www.farnell.com/datasheets/2111203.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EDA / CAD Models"; Value = "Download from Accelerated Designs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "Chip Resistor - Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.020" (0.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kits"; Value = "541-1420-ND  - RESISTOR KIT 0-1M 1/8W 6100PCS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW080513K3FKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Online Catalog"; Value = "CRCW - Automotive Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Other Names"; Value = "541-13.3KCCT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)   "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.062, 100=0.0254, 1000=0.0114, 2500=0.0099 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Ohms)"; Value = "13.3K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "CRCW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standard Package"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "38417"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-13.3KCCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37"; Footprint = "R0603"; UniqueID = "\YFPAUAPF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mouser.com/ds/2/315/AOA0000C295-1109214.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/315/AOA0000C295-1109214.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C313.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C313.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/datasheets/2631545.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/datasheets/2631545.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://www.farnell.com/datasheets/2631545.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.farnell.com/datasheets/2631545.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "Chip Resistor - Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Current Sense"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.026" (0.65mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-3LWFR005V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.25W, 1/4W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.51, 10=0.39, 25=0.2964, 50=0.2202, 100=0.1638, 250=0.1384, 500=0.1186, 1000=0.0904 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Ohms)"; Value = "0.005 O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "76322"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P19182CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "0/ +700ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31"; Footprint = "R0805"; UniqueID = "\HRRSRRSO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case Size"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimension"; Value = "2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Max"; Value = "0.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55 to +155 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.054, 25=0.0392, 50=0.03, 100=0.0221, 250=0.0168, 500=0.0135, 1000=0.0099 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "2 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0 O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "1318594"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P0.0ACT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40"; Footprint = "R0805"; UniqueID = "\LESJDXSQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case Size"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimension"; Value = "2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Max"; Value = "0.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55 to +155 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.054, 25=0.0392, 50=0.03, 100=0.0221, 250=0.0168, 500=0.0135, 1000=0.0099 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "2 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0 O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "1318594"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P0.0ACT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43"; Footprint = "R0805"; UniqueID = "\WWBFHIFL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case Size"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimension"; Value = "2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Max"; Value = "0.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55 to +155 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.054, 25=0.0392, 50=0.03, 100=0.0221, 250=0.0168, 500=0.0135, 1000=0.0099 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "2 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0 O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "1318594"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P0.0ACT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R45"; Footprint = "R0805"; UniqueID = "\UQRVTVWU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case Size"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimension"; Value = "2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Max"; Value = "0.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55 to +155 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.054, 25=0.0392, 50=0.03, 100=0.0221, 250=0.0168, 500=0.0135, 1000=0.0099 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "2 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0 O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "1318594"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P0.0ACT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R46"; Footprint = "R0805"; UniqueID = "\CCKVUQYK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case Size"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimension"; Value = "2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Max"; Value = "0.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55 to +155 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.054, 25=0.0392, 50=0.03, 100=0.0221, 250=0.0168, 500=0.0135, 1000=0.0099 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "2 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0 O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "1318594"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P0.0ACT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R48"; Footprint = "R0805"; UniqueID = "\ETSMCQIP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case Size"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimension"; Value = "2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Max"; Value = "0.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55 to +155 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.054, 25=0.0392, 50=0.03, 100=0.0221, 250=0.0168, 500=0.0135, 1000=0.0099 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "2 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0 O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "1318594"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P0.0ACT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R49"; Footprint = "R0805"; UniqueID = "\VOPACNCN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case Size"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimension"; Value = "2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Max"; Value = "0.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55 to +155 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.054, 25=0.0392, 50=0.03, 100=0.0221, 250=0.0168, 500=0.0135, 1000=0.0099 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "2 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0 O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "1318594"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P0.0ACT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R50"; Footprint = "R0805"; UniqueID = "\NYIHVWME"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case Size"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimension"; Value = "2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Max"; Value = "0.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55 to +155 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.054, 25=0.0392, 50=0.03, 100=0.0221, 250=0.0168, 500=0.0135, 1000=0.0099 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "2 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0 O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "1318594"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P0.0ACT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R61"; Footprint = "R0805"; UniqueID = "\CEYUARUX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case Size"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimension"; Value = "2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Max"; Value = "0.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55 to +155 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.054, 25=0.0392, 50=0.03, 100=0.0221, 250=0.0168, 500=0.0135, 1000=0.0099 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "2 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0 O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "1318594"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P0.0ACT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R62"; Footprint = "R0805"; UniqueID = "\BVPMSETV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case Size"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimension"; Value = "2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Max"; Value = "0.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55 to +155 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.054, 25=0.0392, 50=0.03, 100=0.0221, 250=0.0168, 500=0.0135, 1000=0.0099 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "2 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0 O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "1318594"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P0.0ACT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R63"; Footprint = "R0805"; UniqueID = "\PUEFHAKY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case Size"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1678796.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ6GEY0R00V+7+WW?src-supplier=Jameco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE1.pdf?src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimension"; Value = "2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Max"; Value = "0.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6GEY0R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55 to +155 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.054, 25=0.0392, 50=0.03, 100=0.0221, 250=0.0168, 500=0.0135, 1000=0.0099 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "2 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0 O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "1318594"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P0.0ACT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR31_2 Pin=TP21-1
+Added Pin To Net: NetName=NetR31_1 Pin=TP22-1
+Added Pin To Net: NetName=NetR9_1 Pin=U1-6
+Added Pin To Net: NetName=NetR29_1 Pin=U1-29
+Added Pin To Net: NetName=NetR44_2 Pin=U2-3
+Added Pin To Net: NetName=NetR57_1 Pin=U2-5
+Added Pin To Net: NetName=NetR34_2 Pin=U3-7
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR29_3
+Change Net Name : Old Net Name=NetR24_2 New Net Name=NetR24_4
+Change Net Name : Old Net Name=NetR29_1 New Net Name=NetR9_3
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR58_3
+Change Net Name : Old Net Name=NetR31_2 New Net Name=NetR57_3
+Change Net Name : Old Net Name=NetR34_2 New Net Name=NetR44_4
+Change Net Name : Old Net Name=NetR41_2 New Net Name=NetR41_4
+Change Net Name : Old Net Name=NetR44_2 New Net Name=NetR34_4
+Change Net Name : Old Net Name=NetR57_1 New Net Name=NetR31_4
+Change Net Name : Old Net Name=NetR58_1 New Net Name=NetR31_3
+Added Class: Name=[01] SYSTEM_POWER
+Added Class: Name=[02] PMIC_POWER
+Added Room: Name=[01] SYSTEM_POWER
+Added Room: Name=[02] PMIC_POWER
