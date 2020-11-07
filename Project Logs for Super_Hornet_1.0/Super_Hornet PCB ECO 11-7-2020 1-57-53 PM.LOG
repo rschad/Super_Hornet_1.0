@@ -1,0 +1,56 @@
+Added Component: Designator=J3(HDR_MALE_1x2_2.54mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3D Model"; Value = "87224-2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "Single Square Straight Post
+
+Single Square Straight Post Side"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www1.futureelectronics.com/doc/TYCO%20ELECTRONICS/87224-2.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www1.futureelectronics.com/doc/TYCO%20ELECTRONICS/87224-2.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307819_AMPMODU&DocType=DS&DocLang=English&s_cid=1046&src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307819_AMPMODU&DocType=DS&DocLang=English&s_cid=1046&src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.jameco.com/Jameco/Products/ProdDS/1934518.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.jameco.com/Jameco/Products/ProdDS/1934518.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://www.tycoelectronics.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307819_SECTION_5&DocType=Catalog+Section&DocLang=English&src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.tycoelectronics.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307819_SECTION_5&DocType=Catalog+Section&DocLang=English&src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "http://uk.rs-online.com/webdocs/0fa3/0900766b80fa3622.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://uk.rs-online.com/webdocs/0fa3/0900766b80fa3622.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=87224&DocType=Customer+Drawing&DocLang=English&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=87224&DocType=Customer+Drawing&DocLang=English&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://www.alliedelec.com/m/d/7f3d665b792b1bf5eb695b1e5eb12d29.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.alliedelec.com/m/d/7f3d665b792b1bf5eb695b1e5eb12d29.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header, Unshrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "15µin (0.38µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.318" (8.08mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "AMPMODU Mod II Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Rectangular Connectors - Headers, Male Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "AMPMODU Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "87224-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Products"; Value = "A26921-ND
+- CONN HOUSING 2POS .100 LOCKING
+A26963-ND
+- CONN HOUSING 2POS .100 SINGLE
+A3011-ND
+- CONN HOUSING 2POS .100 SINGLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "87224-2-ND
+A26543"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.01, 10=0.886, 100=0.7644, 500=0.6254, 1000=0.5559, 5000=0.4864, 10000=0.4621 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "87224-2 Statement of Compliance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "AMPMODU Mod II"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "17290"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A26543-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=+7V_20VDC Pin=J3-2
